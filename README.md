@@ -1,2 +1,2 @@
 # Spaceflight-Simulator-Blueprints-
-Custom made blueprints for spaceflight simulator 
+Custom made blueprint for spaceflight simulator 
